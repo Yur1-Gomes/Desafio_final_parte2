@@ -146,7 +146,7 @@ export default function App() {
             <Box5>
               <BoxContent>
                 <H2>5</H2>
-                <H3>PAZ, JUSTIÇA E INSTITUIÇÕES EFICAZES</H3>
+                <H3>PAZ E JUSTIÇA</H3>
               </BoxContent>
               <Icon src={Justice} alt="" />
             </Box5>

@@ -73,7 +73,7 @@ export default function Topic1() {
       <TopicBox>
         <TextBox>
           <H2>5</H2>
-          <H3>Paz, Justiça e Instituições Eficazes</H3>
+          <H3>Paz e Justiça</H3>
           <h4>
             Promover sociedades pacíficas e inclusivas para o desenvolvimento
             sustentável.
